@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  chart-release-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-22T14:58:39.993856-07:00"
+    description: A Helm chart for Kubernetes
+    digest: a6eeeac2c05813c9ada5c98dc1526d474abd1ffd52731ed5bd43685e9b86cc9c
+    name: chart-release-test
+    type: application
+    urls:
+    - https://github.com/simonmarty/chart-release-test/releases/download/chart-release-test-0.1.0/chart-release-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-09-22T14:58:39.99387-07:00"
